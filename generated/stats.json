@@ -3,24 +3,24 @@
   "name": "jihoo",
   "stars": 12,
   "forks": 0,
-  "commits": 5556,
+  "commits": 5596,
   "prs": 544,
-  "issues": 25,
+  "issues": 26,
   "reviews": 3,
-  "followers": 15,
+  "followers": 14,
   "repos": 165,
   "contributedTo": 24,
   "rank": {
     "level": "B+",
-    "percentile": 37.695527734292845,
-    "score": 62.304472265707155,
+    "percentile": 37.71079155706162,
+    "score": 62.28920844293838,
     "metrics": {
-      "commits": 0.9787442054311569,
+      "commits": 0.9793254462514356,
       "prs": 0.9994693677429072,
-      "issues": 0.5,
+      "issues": 0.5136725262938573,
       "reviews": 0.6464466094067263,
       "stars": 0.1935483870967742,
-      "followers": 0.6
+      "followers": 0.5833333333333334
     }
   },
   "achievements": [
@@ -34,7 +34,7 @@
     {
       "id": "commits",
       "name": "Committer",
-      "value": 5556,
+      "value": 5596,
       "tier": "Gold",
       "next": 10000
     },
@@ -48,7 +48,7 @@
     {
       "id": "issues",
       "name": "Issue Scout",
-      "value": 25,
+      "value": 26,
       "tier": "Bronze",
       "next": 50
     },
@@ -62,7 +62,7 @@
     {
       "id": "followers",
       "name": "Crowd Magnet",
-      "value": 15,
+      "value": 14,
       "tier": "Bronze",
       "next": 50
     },
