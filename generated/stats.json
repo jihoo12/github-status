@@ -3,8 +3,8 @@
   "name": "jihoo",
   "stars": 12,
   "forks": 0,
-  "commits": 5796,
-  "prs": 565,
+  "commits": 5813,
+  "prs": 572,
   "issues": 26,
   "reviews": 3,
   "followers": 13,
@@ -12,11 +12,11 @@
   "contributedTo": 24,
   "rank": {
     "level": "B+",
-    "percentile": 37.81380196898012,
-    "score": 62.18619803101988,
+    "percentile": 37.809371042007875,
+    "score": 62.190628957992125,
     "metrics": {
-      "commits": 0.9820017555882913,
-      "prs": 0.9996033923845917,
+      "commits": 0.982212593295705,
+      "prs": 0.9996400709918722,
       "issues": 0.5136725262938573,
       "reviews": 0.6464466094067263,
       "stars": 0.1935483870967742,
@@ -34,14 +34,14 @@
     {
       "id": "commits",
       "name": "Committer",
-      "value": 5796,
+      "value": 5813,
       "tier": "Gold",
       "next": 10000
     },
     {
       "id": "prs",
       "name": "Merge Maker",
-      "value": 565,
+      "value": 572,
       "tier": "Gold",
       "next": 1000
     },
