@@ -1,25 +1,25 @@
 {
   "login": "jihoo12",
   "name": "jihoo",
-  "stars": 17,
+  "stars": 9,
   "forks": 0,
-  "commits": 5945,
-  "prs": 576,
+  "commits": 5962,
+  "prs": 579,
   "issues": 26,
   "reviews": 3,
   "followers": 14,
-  "repos": 171,
-  "contributedTo": 21,
+  "repos": 153,
+  "contributedTo": 44,
   "rank": {
-    "level": "A-",
-    "percentile": 35.62590037984216,
-    "score": 64.37409962015784,
+    "level": "B+",
+    "percentile": 38.9953501262725,
+    "score": 61.0046498737275,
     "metrics": {
-      "commits": 0.9837678265109739,
-      "prs": 0.9996594864095825,
+      "commits": 0.983957975848125,
+      "prs": 0.9996733575305699,
       "issues": 0.5136725262938573,
       "reviews": 0.6464466094067263,
-      "stars": 0.2537313432835821,
+      "stars": 0.15254237288135594,
       "followers": 0.5833333333333334
     }
   },
@@ -27,21 +27,21 @@
     {
       "id": "stars",
       "name": "Star Collector",
-      "value": 17,
-      "tier": "Bronze",
-      "next": 50
+      "value": 9,
+      "tier": "Locked",
+      "next": 10
     },
     {
       "id": "commits",
       "name": "Committer",
-      "value": 5945,
+      "value": 5962,
       "tier": "Gold",
       "next": 10000
     },
     {
       "id": "prs",
       "name": "Merge Maker",
-      "value": 576,
+      "value": 579,
       "tier": "Gold",
       "next": 1000
     },
@@ -69,16 +69,16 @@
     {
       "id": "repos",
       "name": "Repo Builder",
-      "value": 171,
+      "value": 153,
       "tier": "Diamond",
       "next": null
     },
     {
       "id": "contributions",
       "name": "Collaborator",
-      "value": 21,
-      "tier": "Silver",
-      "next": 30
+      "value": 44,
+      "tier": "Gold",
+      "next": 100
     }
   ]
 }
