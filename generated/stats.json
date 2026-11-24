@@ -3,24 +3,24 @@
   "name": "jihoo",
   "stars": 9,
   "forks": 0,
-  "commits": 5962,
-  "prs": 579,
-  "issues": 26,
-  "reviews": 3,
-  "followers": 14,
-  "repos": 153,
-  "contributedTo": 44,
+  "commits": 6790,
+  "prs": 584,
+  "issues": 27,
+  "reviews": 4,
+  "followers": 13,
+  "repos": 156,
+  "contributedTo": 47,
   "rank": {
     "level": "B+",
-    "percentile": 38.9953501262725,
-    "score": 61.0046498737275,
+    "percentile": 38.0552458167316,
+    "score": 61.9447541832684,
     "metrics": {
-      "commits": 0.983957975848125,
-      "prs": 0.9996733575305699,
-      "issues": 0.5136725262938573,
-      "reviews": 0.6464466094067263,
+      "commits": 0.9909633735632399,
+      "prs": 0.9996952317995845,
+      "issues": 0.526971176637202,
+      "reviews": 0.75,
       "stars": 0.15254237288135594,
-      "followers": 0.5833333333333334
+      "followers": 0.5652173913043479
     }
   },
   "achievements": [
@@ -34,49 +34,49 @@
     {
       "id": "commits",
       "name": "Committer",
-      "value": 5962,
+      "value": 6790,
       "tier": "Gold",
       "next": 10000
     },
     {
       "id": "prs",
       "name": "Merge Maker",
-      "value": 579,
+      "value": 584,
       "tier": "Gold",
       "next": 1000
     },
     {
       "id": "issues",
       "name": "Issue Scout",
-      "value": 26,
+      "value": 27,
       "tier": "Bronze",
       "next": 50
     },
     {
       "id": "reviews",
       "name": "Keen Reviewer",
-      "value": 3,
+      "value": 4,
       "tier": "Locked",
       "next": 5
     },
     {
       "id": "followers",
       "name": "Crowd Magnet",
-      "value": 14,
+      "value": 13,
       "tier": "Bronze",
       "next": 50
     },
     {
       "id": "repos",
       "name": "Repo Builder",
-      "value": 153,
+      "value": 156,
       "tier": "Diamond",
       "next": null
     },
     {
       "id": "contributions",
       "name": "Collaborator",
-      "value": 44,
+      "value": 47,
       "tier": "Gold",
       "next": 100
     }
